@@ -1,0 +1,5 @@
+Digital
+
+POM-Version:       1.0-SNAPSHOT
+Build Git Version: v0.26.1
+Build Time:        2021-02-26 07:18

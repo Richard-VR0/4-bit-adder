@@ -9,7 +9,7 @@ The logical gates are emulated by an Arduino, which in addition to emulating the
 <ul>
 <li>Arduino code file (.ino)</li>
 <li>Electric scheme (.pdf)</li>
-<li>Logical scheme (.dig)</li>
+<li>Logical scheme (.dig) (.pdf)</li>
 <li>Digital folder (to open the logical scheme)</li>
 </ul>
 

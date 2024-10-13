@@ -14,4 +14,4 @@ The logical gates are emulated by an Arduino, which in addition to emulating the
 
 # More info
  - To open the file "4 bit adder.dig" you must first enter in the Folder named "Digital" and run "Digital.exe"
- - The file "8_bit_adder.vi" can be imported into labview to include the additionator in your own project
+ - The file "4_bit_adder.vi" can be imported into labview to include the additionator in your own project

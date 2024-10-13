@@ -7,12 +7,12 @@ The logical gates are emulated by an Arduino, which in addition to emulating the
 # Contents
 
 <ul>
-  <li>Arduino code file (.ino)</li>
-  <li>8_bit_adder (.vi)</li>
-  <li>Electric scheme (.pdf)</li>
-  <li>Electric scheme with Arduino (.pdf)</li>
-  <li>Logical scheme (.dig) (.pdf)</li>
-  <li>Digital folder (to open the logical scheme)</li>
+- Arduino code file (.ino)
+  8_bit_adder (.vi)
+  Electric scheme (.pdf)
+  Electric scheme with Arduino (.pdf)
+  Logical scheme (.dig) (.pdf)
+  Digital folder (to open the logical scheme)
 </ul>
 
 # More info

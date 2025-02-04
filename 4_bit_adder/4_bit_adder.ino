@@ -1,7 +1,6 @@
 //RICCARDO VESCIO
 //My GitHub profile --> https://github.com/Richard-VR0
 //My personal website --> https://rvescio.altervista.org
-//My linktree --> https://linktr.ee/riccardovescio
 
 #include <U8glib.h>     //Importing library
 

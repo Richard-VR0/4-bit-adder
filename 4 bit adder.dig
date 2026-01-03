@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <circuit>
-  <version>1</version>
+  <version>2</version>
   <attributes/>
   <visualElements>
     <visualElement>
@@ -9,6 +9,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>A_4</string>
         </entry>
       </elementAttributes>
       <pos x="20" y="-240"/>
@@ -20,6 +24,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>A_3</string>
+        </entry>
       </elementAttributes>
       <pos x="60" y="-240"/>
     </visualElement>
@@ -29,6 +37,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>A_2</string>
         </entry>
       </elementAttributes>
       <pos x="100" y="-240"/>
@@ -40,6 +52,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>A_1</string>
+        </entry>
       </elementAttributes>
       <pos x="140" y="-240"/>
     </visualElement>
@@ -49,6 +65,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>B_4</string>
         </entry>
       </elementAttributes>
       <pos x="220" y="-240"/>
@@ -60,6 +80,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>B_3</string>
+        </entry>
       </elementAttributes>
       <pos x="260" y="-240"/>
     </visualElement>
@@ -70,6 +94,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>B_2</string>
+        </entry>
       </elementAttributes>
       <pos x="300" y="-240"/>
     </visualElement>
@@ -79,6 +107,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>B_1</string>
         </entry>
       </elementAttributes>
       <pos x="340" y="-240"/>
@@ -130,6 +162,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>Y_1</string>
+        </entry>
       </elementAttributes>
       <pos x="1200" y="800"/>
     </visualElement>
@@ -139,6 +175,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Y_2</string>
         </entry>
       </elementAttributes>
       <pos x="1160" y="800"/>
@@ -150,6 +190,10 @@
           <string>rotation</string>
           <rotation rotation="3"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>Y_3</string>
+        </entry>
       </elementAttributes>
       <pos x="1120" y="800"/>
     </visualElement>
@@ -159,6 +203,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Y_4</string>
         </entry>
       </elementAttributes>
       <pos x="1080" y="800"/>
@@ -319,6 +367,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Y_5</string>
         </entry>
       </elementAttributes>
       <pos x="1040" y="800"/>

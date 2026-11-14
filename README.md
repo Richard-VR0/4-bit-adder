@@ -10,7 +10,6 @@ The logical gates are emulated by an Arduino, which in addition to emulating the
  - Electric scheme (.pdf)
  - Electric scheme with Arduino (.pdf)
  - Logical scheme (.dig) (.pdf)
- - Digital folder (to open the logical scheme)
 
 # More info
  - To open the file "4 bit adder.dig" you must first enter in the Folder named "Digital" and run "Digital.exe"
